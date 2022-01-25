@@ -9,7 +9,7 @@ Install:
 -Node.js
 
 Run:
-git clone
+git clone https://github.com/pmcmal/MySQL_vs_MongoDB.git
 shift+right click -> open in powershell
 npm install
 OPTION 1: Logs in console
