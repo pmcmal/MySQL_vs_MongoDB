@@ -16,3 +16,5 @@ OPTION 1: Logs in console
 npm start
 OPTION 2: logs in txt file
 npm start > log.txt
+
+Project in Polish, but feel free to translate it to English e.g. using deepl ;)
