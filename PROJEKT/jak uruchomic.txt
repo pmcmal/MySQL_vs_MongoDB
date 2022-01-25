@@ -1,0 +1,11 @@
+Node.js
+MySQL z domyślnym hasłem roota "password"
+MongoDB
+
+git clone
+w katalogu shift+prawy -> Otwórz tutaj okno programu Powershell
+npm install
+OPCJA 1: Logi w konsoli:
+npm start
+OPCJA 2: Logi do pliku txt:
+npm start > log.txt
